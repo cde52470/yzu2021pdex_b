@@ -48,7 +48,7 @@ cout << "bmw's abs" << endl;
 }
 void start()
 {
-cout << "bmw's start" << endl;
+cout << "bmw's start" << endl;...
 CCAR::start();//scope operator
 //CCAR c;
 //c.start();
